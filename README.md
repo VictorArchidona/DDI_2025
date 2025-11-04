@@ -1,2 +1,2 @@
-# Mi_primer_ejercicio_con_IA
-Red Neuronal - Iris flower
+# DDI_2025
+Desarrollo de Interfazes
